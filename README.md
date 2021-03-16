@@ -1,9 +1,8 @@
 # Avax
-Before we dig into the Pathway, let's check if you have the right environment:
-Download the latest version of NodeJS (12.x+)
-Use any code editor like VSCode etc.
-Required packages:  avalanche - for the Avalanche Javascript API
-                    dotenv - for working with environment variables
+# Before we dig into the Pathway, let's check if you have the right environment:
+# Download the latest version of NodeJS (12.x+)
+# Use any code editor like VSCode etc.
+# Required packages:  avalanche - for the Avalanche Javascript API   dotenv - for working with environment variables
 
 1.
 npm install --save avalanche dotenv
@@ -15,7 +14,6 @@ node create_account.js
 
 https://faucet.avax-test.network/ 
 (Full in your new address)
-
 
 3.
 node query.js
